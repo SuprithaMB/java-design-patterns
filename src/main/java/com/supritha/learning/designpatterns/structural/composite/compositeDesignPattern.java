@@ -1,4 +1,4 @@
-package com.supritha.learning.designpatterns.structural.composite;
+package main.java.com.supritha.learning.designpatterns.structural.composite;
 
 public class compositeDesignPattern {
 

@@ -1,4 +1,4 @@
-package com.supritha.learning.designpatterns.structural.adaptor;
+package main.java.com.supritha.learning.designpatterns.structural.adaptor;
 
 public class AdaptorDesignPattern {
 
